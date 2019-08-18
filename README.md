@@ -1,4 +1,4 @@
-# Moloch Front-End
+# Axolotl Front-End
 
 ## Local Development
 
